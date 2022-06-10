@@ -3,7 +3,7 @@
 ![Blue Brown Simple Business Blog Banner](https://user-images.githubusercontent.com/78253393/173022302-f0d78cc0-1c21-49e3-a136-c0e942f75fbb.gif)
 
  <p align="center">
- I enjoy making random stuff for the sake of my education. I really enjoy learning languages and frameworks like C# and .NET .I also enjoiy design.Currently I am apart of a course, intented to teach us the language C# ,as well as the MVC model and database.Even then I try not to limit myself to the potential knowledge I may recieve.
+ Pleasure to meet you,my name is Petra,I am from Bulgaria and I enjoy making random stuff for the sake of my education. I really enjoy learning languages and frameworks like C# and .NET .I also enjoiy design.Currently I am apart of a course, intented to teach us the language C# ,as well as the MVC model and database.Even then I try not to limit myself to the potential knowledge I may recieve.
   <p align="center">
 Link to the course:https://it-kariera.mon.bg/e-learning/
 
