@@ -22,7 +22,7 @@ Link to the course:https://it-kariera.mon.bg/e-learning/
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: artepnikolaeva75@gmail.com">
+<a href="mailto: petratileva33@gmail.com">
  <img src="https://img.shields.io/badge/-Artep666-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artepnikolaeva75@gmail.com"/>
 </a>
 
