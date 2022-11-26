@@ -1,9 +1,11 @@
 
-### Hi there 👋,  My name is ✨Petra✨
-![Blue Brown Simple Business Blog Banner](https://user-images.githubusercontent.com/78253393/173022302-f0d78cc0-1c21-49e3-a136-c0e942f75fbb.gif)
 
- <p align="center">
- Pleasure to meet you,my name is Petra,I am from Bulgaria and I enjoy making random stuff for the sake of my education. I really enjoy learning languages and frameworks like C# and .NET .I also enjoiy design.Currently I am apart of a course, intented to teach us the language C# ,as well as the MVC model and database.Even then I try not to limit myself to the potential knowledge I may recieve.
+![irl (1)](https://user-images.githubusercontent.com/78253393/204100833-c49f1a7c-14ee-47df-a3f2-5865d13223d1.png)
+
+### Hi there 👋,  My name is ✨Azedrotux✨
+
+ Pleasure to meet you,my name is Azedrotux,I am from Bulgaria and I enjoy making random stuff for the sake of my education.Yes,I have no idea what i am doing yet.No I won't give up. Now that this is out of the way,I really enjoy learning languages and frameworks like C# and .NET .I also enjoiy designing stuff.Currently I am apart of a course, intented to teach us the language C# ,as well as the MVC model and database,Haskell and the basics of HTML.Even then I try not to limit myself to the potential knowledge I could recieve.
+As of the current skills i have,I am not perfect in them,but everyone starts somewhere.
   <p align="center">
 Link to the course:https://it-kariera.mon.bg/e-learning/
 
@@ -38,15 +40,13 @@ Link to the course:https://it-kariera.mon.bg/e-learning/
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Artep666&show_icons=true&theme=cobalt&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Artep666&layout=custom&theme=cobalt">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Artep666&show_icons=true&theme=outrun&line_height=27&hide_border=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Artep666&layout=custom&theme=outrun&hide_border=true">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Artep666&show_icons=true&locale=en&layout=compact&theme=cobalt&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=Artep666&show_icons=true&locale=en&layout=compact&theme=shades-of-purple&line_height=0&hide_border=true" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Artep666&theme=cobalt">
-</p> 
+
 <hr>
