@@ -2,7 +2,7 @@
 
 ![irl (1)](https://user-images.githubusercontent.com/78253393/204100833-c49f1a7c-14ee-47df-a3f2-5865d13223d1.png)
 
-### Hi there 👋,  My name is ✨Azedrotux✨
+### Hi there 👋,  My name is  <img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="20">Azedrotux <img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="20">
 
  Pleasure to meet you,my name is Azedrotux,I am from Bulgaria and I enjoy making random stuff for the sake of my education.Yes,I have no idea what i am doing yet.No I won't give up. Now that this is out of the way,I really enjoy learning languages and frameworks like C# and .NET .I also enjoiy designing stuff.Currently I am apart of a course, intented to teach us the language C# ,as well as the MVC model and database,Haskell and the basics of HTML.Even then I try not to limit myself to the potential knowledge I could recieve.
 As of the current skills i have,I am not perfect in them,but everyone starts somewhere.
@@ -10,7 +10,7 @@ As of the current skills i have,I am not perfect in them,but everyone starts som
 Link to the course:https://it-kariera.mon.bg/e-learning/
 
 
-<h2 align="center">Current skills<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<h2 align="center"><img src="https://media.giphy.com/media/8FGMuS6Bj4MyP1NA5h/giphy.gif" width="80">Current skills<img src="https://media.giphy.com/media/8FGMuS6Bj4MyP1NA5h/giphy.gif" width="80">
 
 <p align="center">
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -24,7 +24,7 @@ Link to the course:https://it-kariera.mon.bg/e-learning/
 
 </p>
 
-<h2 align="center">Reach me out on<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<h2 align="center"><img src="https://media.giphy.com/media/3og0IvuSSJb8bCXUTC/giphy.gif" width="50">Reach me out on<img src="https://media.giphy.com/media/3og0IvuSSJb8bCXUTC/giphy.gif" width="50">
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
@@ -34,7 +34,7 @@ Link to the course:https://it-kariera.mon.bg/e-learning/
 
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/RMBAIfEfulAqgdyWH6/giphy.gif" width="200">My Github Stats <img src="https://media.giphy.com/media/RMBAIfEfulAqgdyWH6/giphy.gif" width="200">
 </h2>
  
 <br>
