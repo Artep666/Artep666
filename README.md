@@ -31,9 +31,11 @@ Link to the course:https://it-kariera.mon.bg/e-learning/
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: petratileva33@gmail.com">
- <img src="https://img.shields.io/badge/-Artep666-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artepnikolaeva75@gmail.com"/>
+ <img src="https://img.shields.io/badge/-Artep666-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:artepnikolaeva75@gmail.com"/>
 </a>
-
+<a href="https://www.linkedin.com/in/azedrotux333/">
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/RMBAIfEfulAqgdyWH6/giphy.gif" width="200">My Github Stats <img src="https://media.giphy.com/media/RMBAIfEfulAqgdyWH6/giphy.gif" width="200">
