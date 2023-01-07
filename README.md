@@ -50,7 +50,7 @@ Link to the course:https://it-kariera.mon.bg/e-learning/
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=Artep666&show_icons=true&locale=en&layout=compact&theme=shades-of-purple&line_height=0&hide_border=true" />
 </p> 
 <hr />
-<h2 align ="center">Visitor count</h2>
+<h2 align ="center"><img src="https://media.giphy.com/media/xUA7aW7KWW289LvRdK/giphy.gif" width="60">Visitor count<img src="https://media.giphy.com/media/xUA7aW7KWW289LvRdK/giphy.gif" width="60"></h2>
  <p align="center">
 <img src="https://profile-counter.glitch.me/Artep666/count.svg" />
 </p>
