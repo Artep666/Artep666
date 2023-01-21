@@ -43,10 +43,7 @@ Link to the course:https://it-kariera.mon.bg/e-learning/
  
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Artep666&show_icons=true&theme=outrun&line_height=27&hide_border=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Artep666&layout=custom&theme=outrun&hide_border=true">
-</p>
+
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=Artep666&show_icons=true&locale=en&layout=compact&theme=shades-of-purple&line_height=0&hide_border=true" />
