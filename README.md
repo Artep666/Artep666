@@ -4,12 +4,12 @@
 
 ### Hi there <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="50">,  My name is  <img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="20">Azedrotux <img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="20">
 
- Pleasure to meet you,my name is Azedrotux,I am from Bulgaria and I enjoy coding and creating stuff.I really enjoy learning new stuff.Designing the look of my project readme-s has now became a hobby of mine.Currently I am apart of a course, intented to teach us the language C# ,as well as the MVC model and database,Haskell and the basics of HTML.Then again,I try not to limit myself to the potential knowledge I could recieve.I like making my projects appealing to the eye,as well as trowing puns here and there.
+ Pleasure to meet you,my name is Azedrotux,I am from Bulgaria and I enjoy coding and creating stuff.I really enjoy learning new stuff.Designing the look of my project readme-s has now became a hobby of mine.I have finished a course for programing "IT-kariera".
   <p align="center">
 Link to the course:https://it-kariera.mon.bg/e-learning/
 
 
-<h2 align="center"><img src="https://media.giphy.com/media/8FGMuS6Bj4MyP1NA5h/giphy.gif" width="80">Languages and Tools<img src="https://media.giphy.com/media/8FGMuS6Bj4MyP1NA5h/giphy.gif" width="80">
+<h2 align="center"><img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy-downsized-large.gif" width="80">Languages and Tools<img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy-downsized-large.gif" width="80">
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,8 +21,6 @@ Link to the course:https://it-kariera.mon.bg/e-learning/
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 
 </p>
 
