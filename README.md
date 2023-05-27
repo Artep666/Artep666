@@ -1,16 +1,17 @@
 
 
-![irl (1)](https://user-images.githubusercontent.com/78253393/204100833-c49f1a7c-14ee-47df-a3f2-5865d13223d1.png)
+![irl (2)](https://github.com/Artep666/Artep666/assets/78253393/461268a7-fee2-49c8-9212-db499b299b94)
 
 ### Hi there <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="50">,  My name is  <img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="20">Azedrotux <img src="https://media.giphy.com/media/10Bb1Bq7BMi9Co/giphy.gif" width="20">
 
  Pleasure to meet you,my name is Azedrotux,I am from Bulgaria and I enjoy coding and creating stuff.I really enjoy learning new stuff.Designing the look of my project readme-s has now became a hobby of mine.I have finished a course for programing "IT-kariera".
   <p align="center">
+ <br>
 Link to the course:https://it-kariera.mon.bg/e-learning/
 
 
 <h2 align="center"><img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy-downsized-large.gif" width="80">Languages and Tools<img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy-downsized-large.gif" width="80">
-
+<br>
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
